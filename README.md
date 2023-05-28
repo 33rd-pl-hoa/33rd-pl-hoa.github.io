@@ -1,3 +1,3 @@
 # HOA 33RD PL
 
-Site: 33rd-pl-hoa.github.io
+Site: http://33rd-pl-hoa.github.io
