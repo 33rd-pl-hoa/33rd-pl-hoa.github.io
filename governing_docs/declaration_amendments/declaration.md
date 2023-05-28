@@ -183,7 +183,11 @@ Thirty Third Place, Inc., a Washington corporation, referred to in this Declarat
 - "Declarant control" means the right of the Declarant or persons designated by the Declarant to appoint and remove officers and members of the Board of Directors, or to veto or approve a proposed action of the Board or Association, as specified in this Declaration and pursuant to the Act.
 - "Declaration" means this Declaration and any amendments thereto and subsequently recorded.
 - "Development rights" means rights if expressly reserved by Declarant in this Declaration to:
-(a) add Real Property or improvements to the Condominium; (b) create Units, Common Elements, or Limited Common Elements within the Real Property included or added to the Condominium; (c) subdivide Units or convert Units into Common Elements; (d) withdraw Real Property from the Condominium; and, (e) reallocate Limited Common Elements with respect to Units that have not been conveyed by Declarant.
+  - (a) add Real Property or improvements to the Condominium;
+  - (b) create Units, Common Elements, or Limited Common Elements within the Real Property included or added to the Condominium; 
+  - (c) subdivide Units or convert Units into Common Elements;
+  - (d) withdraw Real Property from the Condominium; and,
+  - (e) reallocate Limited Common Elements with respect to Units that have not been conveyed by Declarant.
 - "Eligible Mortgagee" means the holder of a Mortgage on a Unit or the Condominium that has filed with the secretary of the Association a written request that it be given copies of notices of any action by the Association that requires the consent of Mortgagees.
 - "Foreclosure" means a forfeiture or judicial or nonjudicial foreclosure of a mortgage, deed of trust, or real estate contract or a deed in lieu thereof.
 - "Identifying number" means a symbol or address that identifies only one Unit in the Condominium.
@@ -199,7 +203,15 @@ Thirty Third Place, Inc., a Washington corporation, referred to in this Declarat
 - "Real Property" means any fee, leasehold, or other estate or interest in, over, or under land described in Exhibit "A," including structures, fixtures, and other improvements thereon and easements, rights, and interests pertinent to which by custom, usage, or law, pass with a conveyance of land although not described in the contract of sale or instrument of conveyance. Real property includes parcels, with or without upper or lower boundaries, and spaces that may be filled with air or water.
 - "Residential Purposes" means use for dwelling or recreational purposes, or both.
 - "Sale," "transfer," or "lease" means a voluntary transfer or conveyance to a purchaser or lessee of any legal or equitable interest in a Unit, but does not include the transfer or release of a security interest.
-- "Special Declarant rights" means rights expressly reserved in this Declaration for the benefit of the Declarant to: (a) complete improvements indicated on the Survey Map and Plans filed with this Declaration; (b) exercise any Development right; (c) maintain sales offices, management offices, signs advertising the Condominium, and models; (d) use easements through the Common Elements for the purposes of making improvements within the Condominium or within real property which may be added to the Condominium; (e) make the Condominium part of a larger condominium or development; (f) make the Condominium subject to a master association; (g) appoint or remove any officer of the Association or any master association or any member of the Board of Directors during any period of Declarant control; and, (h) veto or approve any proposed action of the Board of Directors or Association during any period of Declarant control.
+- "Special Declarant rights" means rights expressly reserved in this Declaration for the benefit of the Declarant to:
+  - (a) complete improvements indicated on the Survey Map and Plans filed with this Declaration;
+  - (b) exercise any Development right; 
+  - (c) maintain sales offices, management offices, signs advertising the Condominium, and models; 
+  - (d) use easements through the Common Elements for the purposes of making improvements within the Condominium or within real property which may be added to the Condominium; 
+  - (e) make the Condominium part of a larger condominium or development; 
+  - (f) make the Condominium subject to a master association; 
+  - (g) appoint or remove any officer of the Association or any master association or any member of the Board of Directors during any period of Declarant control; and, 
+  - (h) veto or approve any proposed action of the Board of Directors or Association during any period of Declarant control.
 - "Survey Map and Plans" means the Survey Map and Plans recorded simultaneously-with this Declaration and any amendments, corrections, and addenda thereto subsequently recorded.
 - "Total Voting Power" means the total number of votes that may be exercised at the time the vote is taken.
 - "Unit" means a physical portion of the Condominium designated for separate fee simple ownership, the boundaries of which are described in this Declaration.
@@ -244,41 +256,39 @@ The physical boundaries of a Unit as originally constructed, or as reconstructed
 
 ### 4.6 Procedures for Altering or Subdividing Units.
 
-(a) Subdividing Units. No Unit may be subdivided or the boundaries of a Unit be modified either by agreement or legal proceedings, except as provided in this Section.
+- (a) Subdividing Units. No Unit may be subdivided or the boundaries of a Unit be modified either by agreement or legal proceedings, except as provided in this Section.
 
-  (i) An Owner may propose subdividing a Unit or the Owners of two or more Units may propose amending the legal boundaries between their adjoining Units by submitting a proposal in writing to the Board. As part of the application, the applicant shall prepare an amendment to the Declaration that: identifies the Units involved; assigns numbers to any new Unit; states the changes and reallocations of allocable interest, if any; is executed by those Unit Owners; and, contains words of conveyance between the applicants, if applicable. The applicants are also to have an amendment to the Survey Map and Plans prepared that complies with the Act and which shows the altered boundaries of the Unit(s) and their dimensions and Identifying Numbers. The amendment must be in form reasonably acceptable to the Board.
+  - (i) An Owner may propose subdividing a Unit or the Owners of two or more Units may propose amending the legal boundaries between their adjoining Units by submitting a proposal in writing to the Board. As part of the application, the applicant shall prepare an amendment to the Declaration that: identifies the Units involved; assigns numbers to any new Unit; states the changes and reallocations of allocable interest, if any; is executed by those Unit Owners; and, contains words of conveyance between the applicants, if applicable. The applicants are also to have an amendment to the Survey Map and Plans prepared that complies with the Act and which shows the altered boundaries of the Unit(s) and their dimensions and Identifying Numbers. The amendment must be in form reasonably acceptable to the Board.
 
-  (ii) The Board of Directors will have sixty (60) days after receiving the complete application and the proposed amendment to determine whether the subdivision or adjustments to the boundaries are reasonable and whether the proposed changes will materially and adversely affect the functionality of a Common Element. Failure to approve the application within said sixty (60) days will be deemed approval of the application. An application approved by the Board, must then be approved by an affirmative vote of sixty-seven percent (67%) of the Owners and fifty-one percent (51 %) of the Eligible Mortgagees, and all of the Eligible Mortgagees and Owners of the Units to be subdivided or the boundaries of which are to be adjusted.
+  - (ii) The Board of Directors will have sixty (60) days after receiving the complete application and the proposed amendment to determine whether the subdivision or adjustments to the boundaries are reasonable and whether the proposed changes will materially and adversely affect the functionality of a Common Element. Failure to approve the application within said sixty (60) days will be deemed approval of the application. An application approved by the Board, must then be approved by an affirmative vote of sixty-seven percent (67%) of the Owners and fifty-one percent (51 %) of the Eligible Mortgagees, and all of the Eligible Mortgagees and Owners of the Units to be subdivided or the boundaries of which are to be adjusted.
 
-  (iii) If approved as set forth above, and having received any governmental approvals that are necessary, the President of the Board will sign the documents implementing the amendment, and the applicant will cause the amendment and the amended Survey Map and Plan to be executed by the applicable parties and recorded.
+  - (iii) If approved as set forth above, and having received any governmental approvals that are necessary, the President of the Board will sign the documents implementing the amendment, and the applicant will cause the amendment and the amended Survey Map and Plan to be executed by the applicable parties and recorded.
 
-  (iv) Any costs incurred by the Association relating to preparation, review or recording of the amendment shall be the responsibility of the applicants, and the Board may require adequate assurances of payment before approving the application.
+  - (iv) Any costs incurred by the Association relating to preparation, review or recording of the amendment shall be the responsibility of the applicants, and the Board may require adequate assurances of payment before approving the application.
 
-(b) Combination of Adjoining Units. After acquiring an adjoining Unit or an interest in part of an adjoining Unit, an Owner may, with the approval of the Board and the Owner and the Eligible Mortgagees of both Units, remove or alter any intervening partition or create apertures therein, even if the partition in whole or in part is a Common Element, if those acts, in the Board's determination, do not adversely affect the structural integrity or acoustical properties of the Building or the plumbing, mechanical, or electrical systems serving another Unit or the Common Elements, or lessen the support of any portion of the Condominium or otherwise adversely affect other Units. Removal of partitions or creation of apertures under this subsection is not a relocation of boundaries and does not change the legal boundaries of the Unit. The Owner's proposal to act under this section is to be submitted to the Board and will include the plans and specifications for the proposed removal or alteration.
+- (b) Combination of Adjoining Units. After acquiring an adjoining Unit or an interest in part of an adjoining Unit, an Owner may, with the approval of the Board and the Owner and the Eligible Mortgagees of both Units, remove or alter any intervening partition or create apertures therein, even if the partition in whole or in part is a Common Element, if those acts, in the Board's determination, do not adversely affect the structural integrity or acoustical properties of the Building or the plumbing, mechanical, or electrical systems serving another Unit or the Common Elements, or lessen the support of any portion of the Condominium or otherwise adversely affect other Units. Removal of partitions or creation of apertures under this subsection is not a relocation of boundaries and does not change the legal boundaries of the Unit. The Owner's proposal to act under this section is to be submitted to the Board and will include the plans and specifications for the proposed removal or alteration.
 
-(c) Minor Alterations and Hard Surface Flooring. No Unit may be altered in any way except in accordance with this Section. An Owner may make any improvements or alterations to the Owner's Unit that do not adversely affect the structural integrity or acoustical Properties of the
+- (c) Minor Alterations and Hard Surface Flooring. No Unit may be altered in any way except in accordance with this Section. An Owner may make any improvements or alterations to the Owner's Unit that do not adversely affect the structural integrity or acoustical Properties of the building, or adversely affect the plumbing, mechanical or electrical systems serving another Unit or the Common Elements, or lessen the support of any portion of the Condominium or otherwise adversely affect other Units. An Owner may not change the flooring in any portion of the Unit that is directly above another Unit from carpeting to hard surface flooring without the prior written approval of the Board. In connection with change from carpet to hard surface flooring, the Board may condition its approval upon installation of acoustical subflooring material and/or coverage of certain areas with carpet. An Owner may not change the appearance of the Common Elements or the exterior appearance of a Unit without the prior approval of the Board.
 
-Building, or adversely affect the plumbing, mechanical or electrical systems serving another Unit or the Common Elements, or lessen the support of any portion of the Condominium or otherwise adversely affect other Units. An Owner may not change the flooring in any portion of the Unit that is directly above another Unit from carpeting to hard surface flooring without the prior written approval of the Board. In connection with change from carpet to hard surface flooring, the Board may condition its approval upon installation of acoustical subflooring material and/or coverage of certain areas with carpet. An Owner may not change the appearance of the Common Elements or the exterior appearance of a Unit without the prior approval of the Board.
+- (d) Substantial Alterations. Except as provided herein, a proposal that would involve a substantial alteration of a Unit is subject to approval of the Board. The Board may retain, at the Owner's expense, an architect or engineer to review the plans and require evidence that all permits necessary for the work have been obtained or will be obtained. The Board shall approve an Owner's request under this section within sixty (60) days of receipt of the proposal, along with plans and specifications and an opinion of a qualified architect or engineer that the alteration will not adversely affect the structural integrity or acoustical properties of -che Building, or adversely affect the plumbing, mechanical or electrical systems serving another Unit or the Common Elements, or lessen the support of any portion of the Condominium or otherwise adversely affect other Units. The failure of the Board to act upon such a request within such period will be deemed approval thereof.
 
-(d) Substantial Alterations. Except as provided herein, a proposal that would involve a substantial alteration of a Unit is subject to approval of the Board. The Board may retain, at the Owner's expense, an architect or engineer to review the plans and require evidence that all permits necessary for the work have been obtained or will be obtained. The Board shall approve an Owner's request under this section within sixty (60) days of receipt of the proposal, along with plans and specifications and an opinion of a qualified architect or engineer that the alteration will not adversely affect the structural integrity or acoustical properties of -che Building, or adversely affect the plumbing, mechanical or electrical systems serving another Unit or the Common Elements, or lessen the support of any portion of the Condominium or otherwise adversely affect other Units. The failure of the Board to act upon such a request within such period will be deemed approval thereof.
+- (e) Procedure After Approval. Upon approval of the proposed change under this Article, the Owner may proceed according to the proposed plans and specifications, provided that the Board may require that, before any work begins, the work be subject to the Board's review, adequate provision be made for payment of the work free and clear of liens, there are adequate protections in place against excessive noise and disruptions to other Owners and for the safety of the other Owners and the Common Elements, and that reasonable deadlines for completion of the work are established.
 
-(e) Procedure After Approval. Upon approval of the proposed change under this Article, the Owner may proceed according to the proposed plans and specifications, provided that the Board may require that, before any work begins, the work be subject to the Board's review, adequate provision be made for payment of the work free and clear of liens, there are adequate protections in place against excessive noise and disruptions to other Owners and for the safety of the other Owners and the Common Elements, and that reasonable deadlines for completion of the work are established.
-
-(f) Application to Declarant. The provisions of this Article will not apply to Declarant if exercising a Development right reserved in this Declaration.
+- (f) Application to Declarant. The provisions of this Article will not apply to Declarant if exercising a Development right reserved in this Declaration.
 
 ## 5. DESCRIPTION OF COMMON ELEMENTS
 
 The Common Elements consist of all portions of the Condominium except the Units, and including the following:
 
-(a) the exterior windows, roofs, foundations, columns, girders, studding, joists, beams, supports, walls (excluding non-bearing interior partitions of Units, if any), and all other structural parts of the Buildings to the boundaries of the Units;
+- (a) the exterior windows, roofs, foundations, columns, girders, studding, joists, beams, supports, walls (excluding non-bearing interior partitions of Units, if any), and all other structural parts of the Buildings to the boundaries of the Units;
 
-(b) the installations of central services such as: power, light, gas, hot and cold water, heating refrigeration, air conditioning and incinerating, pipes, wires, conduits, and other fixtures and equipment for all utilities existing for common use, but excluding plumbing, electrical and similar fixtures that are located within a Unit for the exclusive use of that Unit;
+- (b) the installations of central services such as: power, light, gas, hot and cold water, heating refrigeration, air conditioning and incinerating, pipes, wires, conduits, and other fixtures and equipment for all utilities existing for common use, but excluding plumbing, electrical and similar fixtures that are located within a Unit for the exclusive use of that Unit;
 
-(c) garbage pick-up areas, stairways, and hallways in the Building(s);
+- (c) garbage pick-up areas, stairways, and hallways in the Building(s);
 
-(d) the paved areas for vehicular, bicycle and pedestrian traffic, and unassigned parking spaces;
+- (d) the paved areas for vehicular, bicycle and pedestrian traffic, and unassigned parking spaces;
 
-(e) the yards, gardens, landscaped areas and walkways which surround and provide access to the Building(s).
+- (e) the yards, gardens, landscaped areas and walkways which surround and provide access to the Building(s).
 
 The Real Property described in Exhibit "A."
 
@@ -288,21 +298,21 @@ The Real Property described in Exhibit "A."
 
 Certain portions of the Common Elements are reserved for exclusive use of the allocated Unit Owner(s) and are designated in this Declaration as "Limited Common Elements." These Limited Common Elements are allocated to the Unit(s) to which they are assigned. In addition to any Limited Common Elements provided by law or other provisions of this Declaration, the Limited Common Elements consist of the following:
 
-(a) Mailboxes. Each Unit has, as a Limited Common Element, an assigned mailbox or mailbox area located at the discretion of the U.S. Postal Service. Designation of the mailboxes shall be made at the time of the initial sale of a Unit. The mailbox assignments shall be permanent and may not be severed from the Units, but will be assigned and transferred with the Units and will follow any and all conveyances of a Unit as a Limited Common Element of such Unit.
+- (a) Mailboxes. Each Unit has, as a Limited Common Element, an assigned mailbox or mailbox area located at the discretion of the U.S. Postal Service. Designation of the mailboxes shall be made at the time of the initial sale of a Unit. The mailbox assignments shall be permanent and may not be severed from the Units, but will be assigned and transferred with the Units and will follow any and all conveyances of a Unit as a Limited Common Element of such Unit.
 
-(b) Parking Space. Each Unit shall have set aside, as a Limited Common Element, one parking space for that Unit. Each Unit to which a parking space is assigned will have exclusive use of that parking space. The number of parking space assigned to a Unit and the identifying number is shown on Exhibit "B" and the location of the parking space(s) is shown on the Survey Map and plans. The Declarant reserves the right to assign to Units additional parking space(s) as a Limited Common Element and that assignment will be completed by a designation on said parking space as to the Unit to which it is assigned and it will not be necessary to amend either the Survey Map and Plans or the Declaration in order to assign an additional parking space to a Unit as a Limited Common Element.
+- (b) Parking Space. Each Unit shall have set aside, as a Limited Common Element, one parking space for that Unit. Each Unit to which a parking space is assigned will have exclusive use of that parking space. The number of parking space assigned to a Unit and the identifying number is shown on Exhibit "B" and the location of the parking space(s) is shown on the Survey Map and plans. The Declarant reserves the right to assign to Units additional parking space(s) as a Limited Common Element and that assignment will be completed by a designation on said parking space as to the Unit to which it is assigned and it will not be necessary to amend either the Survey Map and Plans or the Declaration in order to assign an additional parking space to a Unit as a Limited Common Element.
 
-(c) Decks/Patios. If a Unit Owner has a deck or patio adjoining their Unit, the deck or patio is a Limited Common Element of that Unit.
+- (c) Decks/Patios. If a Unit Owner has a deck or patio adjoining their Unit, the deck or patio is a Limited Common Element of that Unit.
 
-(d) Fireplaces . If the Unit Owner has a built-in fireplace, then that fireplace is a Limited Common Element of that Unit.
+- (d) Fireplaces . If the Unit Owner has a built-in fireplace, then that fireplace is a Limited Common Element of that Unit.
 
 ### 6.2 Transfer of Limited Common Elements.
 
-(a) Reallocation Between Unit. Except for a reallocation by the Declarant pursuant to a Development right reserved in this Declaration, a Limited Common Element may only be reallocated between Units with the approval of the Board and by an amendment to this Declaration executed by the Owners and approved in writing by the Mortgagees holding Mortgages against the Units to which the Limited Common Element was and will be allocated. The Board will not unreasonably withhold its approval but, as to parking spaces and mail boxes, it will require that at least one parking space and one mail box be assigned to each Unit. Any costs incurred by the Association relating to preparation, review and recording of the amendment and, if necessary, the Survey Map and Plans, shall be the responsibility of the applicant.
+- (a) Reallocation Between Unit. Except for a reallocation by the Declarant pursuant to a Development right reserved in this Declaration, a Limited Common Element may only be reallocated between Units with the approval of the Board and by an amendment to this Declaration executed by the Owners and approved in writing by the Mortgagees holding Mortgages against the Units to which the Limited Common Element was and will be allocated. The Board will not unreasonably withhold its approval but, as to parking spaces and mail boxes, it will require that at least one parking space and one mail box be assigned to each Unit. Any costs incurred by the Association relating to preparation, review and recording of the amendment and, if necessary, the Survey Map and Plans, shall be the responsibility of the applicant.
 
-(b) Common Element to Limited Common Element. Except as provided above and pursuant to the Development rights reserved to the Declarant in this Declaration, Owners of Units to which at least fifty-one percent (51%) of the votes are allocated, including one hundred percent (100%) of the Owner of the Unit to which the Common Element will be assigned, must agree to reallocate a Common Element as a Limited Common Element. Any reallocation or incorporation shall be reflected in an amendment of this Declaration and, if necessary, the Survey Map and Plans. This section shall not apply to the Declarant if exercising a Development right reserved in this Declaration.
+- (b) Common Element to Limited Common Element. Except as provided above and pursuant to the Development rights reserved to the Declarant in this Declaration, Owners of Units to which at least fifty-one percent (51%) of the votes are allocated, including one hundred percent (100%) of the Owner of the Unit to which the Common Element will be assigned, must agree to reallocate a Common Element as a Limited Common Element. Any reallocation or incorporation shall be reflected in an amendment of this Declaration and, if necessary, the Survey Map and Plans. This section shall not apply to the Declarant if exercising a Development right reserved in this Declaration.
 
-(c) Common Element or Limited Common Element Added to a Unit. Except as provided above, Owners of Units to which at least sixty-seven percent (67%) of the votes are allocated, including one hundred percent (100%) of the Owners of the Unit to which the Common Element will be assigned, must agree to incorporate a Common Element or Limited Common Element into an existing Unit. Any reallocation or incorporation shall be reflected in an amendment of this Declaration and, if necessary, the Survey Map and Plans. This section shall not apply to the Declarant if exercising a Development right reserved in this Declaration.
+- (c) Common Element or Limited Common Element Added to a Unit. Except as provided above, Owners of Units to which at least sixty-seven percent (67%) of the votes are allocated, including one hundred percent (100%) of the Owners of the Unit to which the Common Element will be assigned, must agree to incorporate a Common Element or Limited Common Element into an existing Unit. Any reallocation or incorporation shall be reflected in an amendment of this Declaration and, if necessary, the Survey Map and Plans. This section shall not apply to the Declarant if exercising a Development right reserved in this Declaration.
 
 ## 7. ALLOCATED INTEREST IN COMMON ELEMENTS, COMMON EXPENSES, AND VOTING RIGHTS
 
@@ -336,15 +346,15 @@ A Board of Directors shall manage the affairs of the Association. The number of 
 
 Subject to subsection 8.5 below, the Declarant shall have the right to appoint or remove some or all of the Directors until the Transition Date. The Transition Date is the earliest of the following, at which time the Declarant's right to appoint Directors shall terminate:
 
-(a) a date four (4) months after seventy-five percent (75%) of the Units which may be created have been conveyed to Unit Owners, other than Declarant; or
+- (a) a date four (4) months after seventy-five percent (75%) of the Units which may be created have been conveyed to Unit Owners, other than Declarant; or
 
-(b) a date five (5) years after the first Unit is conveyed; or
+- (b) a date five (5) years after the first Unit is conveyed; or
 
-(c) a date sixty (60) days after 75% of the Units have been conveyed to Unit Owners other than the Declarant; or
+- (c) a date sixty (60) days after 75% of the Units have been conveyed to Unit Owners other than the Declarant; or
 
-(d) a date two (2) years after the last conveyance of a Unit to a Unit Owner other than the Declarant; or
+- (d) a date two (2) years after the last conveyance of a Unit to a Unit Owner other than the Declarant; or
 
-(e) a date two (2) years after any development right to add new Units was last exercised; or
+- (e) a date two (2) years after any development right to add new Units was last exercised; or
 
 (f) the date on which the Declarant records an amendment to the Declaration pursuant to which the Declarant voluntarily surrenders the right to further appoint and remove officers and members of the Board of Directors. If Declarant voluntarily surrenders the right to appoint and remove officers and members of the Board of Directors before the Transition Date pursuant to this subsection, Declarant may require, for the duration of the period of Declarant control, that specified actions of the Board of Directors or Association, as described in the recorded instrument executed by the Declarant, be approved by the Declarant before those actions become effective.
 
@@ -392,37 +402,52 @@ If entered into before the Board elected by the Unit Owners takes office, any ma
 
 Unless limited in the Articles or Bylaws, the Association is authorized to have the power to:
 
-(a) Adopt and amend Bylaws, rules, and regulations;
+- (a) Adopt and amend Bylaws, rules, and regulations;
 
-(b) Adopt and amend budgets for revenues, expenditures, and reserves, and impose and collect assessments for common expenses from Unit Owners;
+- (b) Adopt and amend budgets for revenues, expenditures, and reserves, and impose and collect assessments for common expenses from Unit Owners;
 
-(c) Hire and discharge or contract with managing agents and other employees, agents, and independent contractors;
+- (c) Hire and discharge or contract with managing agents and other employees, agents, and independent contractors;
 
-(d) Regulate the use, maintenance, repair, replacement, and modification of common elements;
+- (d) Regulate the use, maintenance, repair, replacement, and modification of common elements;
 
-(e) Acquire, hold, encumber, and convey in its own name, any right, title or interest to real property, but common elements may be conveyed or subjected to a security interest only pursuant to Section 6.2 and RCW 64.34.348;
+- (e) Acquire, hold, encumber, and convey in its own name, any right, title or interest to real property, but common elements may be conveyed or subjected to a security interest only pursuant to Section 6.2 and RCW 64.34.348;
 
-(f) Grant easements, licenses through or over the common elements and petition for or consent to the vacation of streets and alleys;
+- (f) Grant easements, licenses through or over the common elements and petition for or consent to the vacation of streets and alleys;
 
-(g) Impose and collect any payments, charges, or fees for the use, rental, or operation of common elements, other than limited common elements, and for services provided to Unit Owners;
+- (g) Impose and collect any payments, charges, or fees for the use, rental, or operation of common elements, other than limited common elements, and for services provided to Unit Owners;
 
-(h) Impose and collect charges for late payment of assessments pursuant to RCW 64.34.364(13) and Section 11 and 12 herein;
+- (h) Impose and collect charges for late payment of assessments pursuant to RCW 64.34.364(13) and Section 11 and 12 herein;
 
-(i) Impose and collect reasonable charges for the preparation and recording of amendments to the Declaration, resale certificates required by RCW 64.34.425, and statements of unpaid assessments;
+- (i) Impose and collect reasonable charges for the preparation and recording of amendments to the Declaration, resale certificates required by RCW 64.34.425, and statements of unpaid assessments;
 
-(j) Provide for the indemnification of its officers and board of directors and maintain directors' and officer's liability insurance;
+- (j) Provide for the indemnification of its officers and board of directors and maintain directors' and officer's liability insurance;
 
-(k) Assign its rights to future income, including the right to receive common expense assessments, but only to the extent provided for herein;
+- (k) Assign its rights to future income, including the right to receive common expense assessments, but only to the extent provided for herein;
 
-(l) Exercise all power authorized herein, in the Bylaws, in this state by the same type of corporation as the Association, and any other powers necessary and proper for the governance and operation of the Association.
+- (l) Exercise all power authorized herein, in the Bylaws, in this state by the same type of corporation as the Association, and any other powers necessary and proper for the governance and operation of the Association.
 
 ### 8.15 Legal Proceeding.
 
 The term Legal Proceedings as used herein shall include litigation, administrative, mediation, arbitration or other proceedings in the name of the Association on behalf of itself or two or more unit owners on matters affecting the condominium.
 
-The provisions of the Section shall not apply to Legal Proceedings, as a result of which the Association could not be held responsible for costs of suit (including fees for attorneys, experts, witnesses, investigations and other costs of suit) in an aggregate amount of not more than $5,000, and which involve: (a) collection of delinquent regular or special Assessments, the enforcement of any Assessment lien, and interest and penalties in connection therewith; (b) collection of monies owed to the Association, or recovery of damages caused to the Association or Condominium (or any part thereof), when the principal amount to be recovered involves less than $25,000; (c) enforcement of the provisions of the Declaration, Articles, Bylaws or rules and regulations of the Association; or (d) defense of a claim against the Association, when the principal amount to be recovered involves less than $25,000.
+The provisions of the Section shall not apply to Legal Proceedings, as a result of which the Association could not be held responsible for costs of suit (including fees for attorneys, experts, witnesses, investigations and other costs of suit) in an aggregate amount of not more than $5,000, and which involve: 
 
-In order for the Association (or the Board acting on behalf of the Association) to institute, defend, or intervene in Legal Proceedings, and in order for the Association to become obligated in the aggregate sum in excess of $5,000 to professionals, consultants or other experts in connection with Legal Proceedings, the following conditions must first be satisfied: (A) The Board has received a detailed written summary ("Litigation Summary") concerning the substance of the proceedings, including: (i) agreements with lawyers, experts and consultants; (ii) issues involved; (iii) legal and factual basis of anticipated allegations on behalf of and against the Association; (iv) remedies to be sought on behalf of and against the Association; (v) estimated amount to be sought on behalf of (and that could be sought from) the Association; (vi) Association's estimated costs of suit (including fees for attorneys, experts, witnesses, investigations and other costs of suit) and any third-party costs of suit that the Association would pay if the Association does not prevail; (vii) reports and recommendations by any professionals or consultants retained by the Association (and by any opposing party, if available); (viii) any written demands or settlement offers made by an opposing party ( the Board shall request that an opposing party make such demand and settlement offer); and (ix) any negative consequences that the Association, Condominium or Owners could suffer during such proceedings, including required disclosures to prospective purchasers, impediments to Unit refinancing, or diminishment of Unit value. If the proceeding will involve a claim against Declarant (or Declarant's contractor, subcontractors, vendors, suppliers or other professionals) concerning construction defects or other condition of the Condominium, the Litigation Summary will also include; a description of the construction defects or other condition (which shall also have been transmitted to Declarant); and any written response from Declarant concerning such defects (including any offer to settle by performing remedial work, payment of cash or a combination of both). A copy of the Litigation Summary shall be transmitted to all Owners, together with a written notice of the Owner's right of access to the Books and Records of the Association, and a written notice of a special Owner's meeting to be convened as provided in this Declaration, at which meeting Declarm1t and its representatives shall be entitled to attend and participate in on a non-voting basis. The Owners holding 67% of the total Association voting power must grant approval for the Association (or the Board acting on behalf of the Association) to institute, defend, or intervene in Legal Proceedings; provided, that under no circumstances may Legal Proceedings be commenced against Declarant (or Declarant's contractor, subcontractors, vendors, suppliers or other professional) with respect to any alleged construction defect or other condition which Declarant has agreed in writing to remedy and is proceeding with reasonable due diligence to do so.
+- (a) collection of delinquent regular or special Assessments, the enforcement of any Assessment lien, and interest and penalties in connection therewith; 
+- (b) collection of monies owed to the Association, or recovery of damages caused to the Association or Condominium (or any part thereof), when the principal amount to be recovered involves less than $25,000; 
+- (c) enforcement of the provisions of the Declaration, Articles, Bylaws or rules and regulations of the Association; or 
+- (d) defense of a claim against the Association, when the principal amount to be recovered involves less than $25,000.
+
+In order for the Association (or the Board acting on behalf of the Association) to institute, defend, or intervene in Legal Proceedings, and in order for the Association to become obligated in the aggregate sum in excess of $5,000 to professionals, consultants or other experts in connection with Legal Proceedings, the following conditions must first be satisfied: 
+- (A) The Board has received a detailed written summary ("Litigation Summary") concerning the substance of the proceedings, including: 
+  - (i) agreements with lawyers, experts and consultants; 
+  - (ii) issues involved; 
+  - (iii) legal and factual basis of anticipated allegations on behalf of and against the Association; 
+  - (iv) remedies to be sought on behalf of and against the Association; 
+  - (v) estimated amount to be sought on behalf of (and that could be sought from) the Association; 
+  - (vi) Association's estimated costs of suit (including fees for attorneys, experts, witnesses, investigations and other costs of suit) and any third-party costs of suit that the Association would pay if the Association does not prevail; 
+  - (vii) reports and recommendations by any professionals or consultants retained by the Association (and by any opposing party, if available); 
+  - (viii) any written demands or settlement offers made by an opposing party ( the Board shall request that an opposing party make such demand and settlement offer); and 
+  - (ix) any negative consequences that the Association, Condominium or Owners could suffer during such proceedings, including required disclosures to prospective purchasers, impediments to Unit refinancing, or diminishment of Unit value. If the proceeding will involve a claim against Declarant (or Declarant's contractor, subcontractors, vendors, suppliers or other professionals) concerning construction defects or other condition of the Condominium, the Litigation Summary will also include; a description of the construction defects or other condition (which shall also have been transmitted to Declarant); and any written response from Declarant concerning such defects (including any offer to settle by performing remedial work, payment of cash or a combination of both). A copy of the Litigation Summary shall be transmitted to all Owners, together with a written notice of the Owner's right of access to the Books and Records of the Association, and a written notice of a special Owner's meeting to be convened as provided in this Declaration, at which meeting Declarm1t and its representatives shall be entitled to attend and participate in on a non-voting basis. The Owners holding 67% of the total Association voting power must grant approval for the Association (or the Board acting on behalf of the Association) to institute, defend, or intervene in Legal Proceedings; provided, that under no circumstances may Legal Proceedings be commenced against Declarant (or Declarant's contractor, subcontractors, vendors, suppliers or other professional) with respect to any alleged construction defect or other condition which Declarant has agreed in writing to remedy and is proceeding with reasonable due diligence to do so.
 
 Attorneys Fees. In any legal proceeding the arbitrator, judge, or similar fact finder shall have the discretion to award attorneys fees to the prevailing party together with all costs of suit.
 
@@ -430,7 +455,7 @@ Attorneys Fees. In any legal proceeding the arbitrator, judge, or similar fact f
 
 ### 9.1 Residential Use; Rules.
 
-The primary use of the Building and the Units described in this are intended for Residential Purposes only, and their use is so restricted. In addition, the Board of Directors of the Association may, from time to time, by a vote of a majority of its members, make, alter, or repeal Rules ·and Regulations covering details of the operation and use of the Property, reserving to the Unit Owners the right to change or repeal such Rules and Regulations on the approval of fifty-one percent (5 1 %) of the Total Voting Power of the Association. No such Rule or Regulation shall change the requirement that the Units and Property be used only for Residential Purposes. Furthermore, no Unit shall be used principally for agricultural or farming purposes under any circumstances.
+The primary use of the Building and the Units described in this are intended for Residential Purposes only, and their use is so restricted. In addition, the Board of Directors of the Association may, from time to time, by a vote of a majority of its members, make, alter, or repeal Rules ·and Regulations covering details of the operation and use of the Property, reserving to the Unit Owners the right to change or repeal such Rules and Regulations on the approval of fifty-one percent (51 %) of the Total Voting Power of the Association. No such Rule or Regulation shall change the requirement that the Units and Property be used only for Residential Purposes. Furthermore, no Unit shall be used principally for agricultural or farming purposes under any circumstances.
 
 ### 9.2 Use by Declarant.
 
@@ -440,17 +465,17 @@ The Declarant may maintain a sales office, management office, and model(s) withi
 
 The leasing or renting of a Unit by its Owner, with the exception of the Declarant, shall be governed by the provisions of this subsection.
 
-(a)  No Transit Purposes. With the exception of an Institutional Holder in possession of a Unit following a default in a first Mortgage, a foreclosure proceeding, or any deed or other arrangement in lieu of foreclosure, Unit Owners are prohibited from leasing their Unit(s) for less than thirty (30) days.
+- (a)  No Transit Purposes. With the exception of an Institutional Holder in possession of a Unit following a default in a first Mortgage, a foreclosure proceeding, or any deed or other arrangement in lieu of foreclosure, Unit Owners are prohibited from leasing their Unit(s) for less than thirty (30) days.
 
-(b) Entire Unit . No Unit Owner may lease or rent less than the entire Unit.
+- (b) Entire Unit . No Unit Owner may lease or rent less than the entire Unit.
 
-(c) Written Leases. All leases and rental agreements of Units shall be in writing and the tenant shall be subject to all of the provisions of the Association Management Documents. A copy of any lease shall be delivered to the Secretary of the Association within seventy-two (72) hours of a lease being signed. An Owner leasing a Unit must provide any tenant of that Owner's Unit a copy of the Declaration, Articles of lncorporation, Bylaws, and Rules and Regulations, if any, prior to the tenant signing the lease. Any failure by tenant to comply with the terms of the Association Management Documents shall be a default under the lease. Any such lease shall provide that in the event that the Unit is sold by the Unit Owner, the lease shall terminate on the sale, and that the lease shall terminate upon foreclosure of a Unit by a Mortgagee constituting a first lien on such Unit. If any tenant violates or permits his/her guests to violate any of the Association Management Documents after notice of such violation has been given on two or more occasions, the Board may, at the expense of the Unit Owner, give notice of termination to the tenant or occupant of the Unit and the Owner thereof and have the authority to evict the tenant or occupant if the Owner fails to do so after notice from the Board. The Board shall have no liability for a good faith eviction. The Board may have a lien against a Unit Owner's Unit for the costs associated with the eviction, including costs, expenses, and reasonable attorney's fees and such may be collected in the same manner as Assessments are collected and foreclosed in Section 11.
+- (c) Written Leases. All leases and rental agreements of Units shall be in writing and the tenant shall be subject to all of the provisions of the Association Management Documents. A copy of any lease shall be delivered to the Secretary of the Association within seventy-two (72) hours of a lease being signed. An Owner leasing a Unit must provide any tenant of that Owner's Unit a copy of the Declaration, Articles of lncorporation, Bylaws, and Rules and Regulations, if any, prior to the tenant signing the lease. Any failure by tenant to comply with the terms of the Association Management Documents shall be a default under the lease. Any such lease shall provide that in the event that the Unit is sold by the Unit Owner, the lease shall terminate on the sale, and that the lease shall terminate upon foreclosure of a Unit by a Mortgagee constituting a first lien on such Unit. If any tenant violates or permits his/her guests to violate any of the Association Management Documents after notice of such violation has been given on two or more occasions, the Board may, at the expense of the Unit Owner, give notice of termination to the tenant or occupant of the Unit and the Owner thereof and have the authority to evict the tenant or occupant if the Owner fails to do so after notice from the Board. The Board shall have no liability for a good faith eviction. The Board may have a lien against a Unit Owner's Unit for the costs associated with the eviction, including costs, expenses, and reasonable attorney's fees and such may be collected in the same manner as Assessments are collected and foreclosed in Section 11.
 
-(d) Parking Space Leases. A Unit Owner may lease its assigned parking space, but only if the assignee is a Unit Owner within the Condominium, and if the Association has been given notice of such a leasing arrangement. Further, the lease may be terminated upon 15 days notice, and will be automatically terminated upon the transfer of title of the Unit to which the parking space being rented is assigned as a Limited Common Element.
+- (d) Parking Space Leases. A Unit Owner may lease its assigned parking space, but only if the assignee is a Unit Owner within the Condominium, and if the Association has been given notice of such a leasing arrangement. Further, the lease may be terminated upon 15 days notice, and will be automatically terminated upon the transfer of title of the Unit to which the parking space being rented is assigned as a Limited Common Element.
 
-(e) Commercial Use Prohibited. No Unit Owner shall be permitted to rent or lease that Owner's Unit for commercial purposes.
+- (e) Commercial Use Prohibited. No Unit Owner shall be permitted to rent or lease that Owner's Unit for commercial purposes.
 
-(f) Rent to Association. If a Unit is rented by its Owner, the Board may collect, and the tenant shall pay over to the Board, so much of the rent for such Unit as is required to pay any amounts due the Association hereunder, plus interest and costs if the same are in default over thirty (30) days. Such payment will discharge the tenant's duty of payment to the Owner for rent, to the extent such rent is paid to the Association, but will not discharge the liability of the Owner or Purchaser and the Unit under this Declaration for Assessments and charges, or operate as an approval of the lease. The Board shall not exercise this power where a receiver has been appointed with respect to the Unit or its Owner; nor in derogation of any rights that a Mortgagee of such Unit may have with respect to such rents. Other than as stated in this section, there is no restriction on the right of any Unit Owner to lease or rent his or her Unit.
+- (f) Rent to Association. If a Unit is rented by its Owner, the Board may collect, and the tenant shall pay over to the Board, so much of the rent for such Unit as is required to pay any amounts due the Association hereunder, plus interest and costs if the same are in default over thirty (30) days. Such payment will discharge the tenant's duty of payment to the Owner for rent, to the extent such rent is paid to the Association, but will not discharge the liability of the Owner or Purchaser and the Unit under this Declaration for Assessments and charges, or operate as an approval of the lease. The Board shall not exercise this power where a receiver has been appointed with respect to the Unit or its Owner; nor in derogation of any rights that a Mortgagee of such Unit may have with respect to such rents. Other than as stated in this section, there is no restriction on the right of any Unit Owner to lease or rent his or her Unit.
 
 ### 9.4 Signs.
 
@@ -470,7 +495,10 @@ No noxious, offensive, or undesirable thing, use, or activity shall be permitted
 
 ### 9.8 Antennas and Dishes.
 
-No dish or other type of exterior antenna or receiver larger than one meter in diameter shall be allowed on any Unit Limited Common Element, Common Elements, or any other part of the Condominium unless approved by the Board. The use, installation and maintenance of antennas and dishes one meter or less in diameter shall be allowed, provided that the Board determines that: (a) its location is confined to a Unit Owner's Limited Common Elements; (b) it is not placed on any deck railing; and, (c) it cannot easily be seen from another Owner's Unit, Limited Common Elements, or from the exterior of the Building. The Association reserves the right to require that the antenna or dish be painted, screened or relocated should the Board determine that it is unsightly or obtrusive to the overall aesthetics of the Condominium. This provision shall be limited as provided by applicable law.
+No dish or other type of exterior antenna or receiver larger than one meter in diameter shall be allowed on any Unit Limited Common Element, Common Elements, or any other part of the Condominium unless approved by the Board. The use, installation and maintenance of antennas and dishes one meter or less in diameter shall be allowed, provided that the Board determines that: 
+- (a) its location is confined to a Unit Owner's Limited Common Elements; 
+- (b) it is not placed on any deck railing; and, 
+- (c) it cannot easily be seen from another Owner's Unit, Limited Common Elements, or from the exterior of the Building. The Association reserves the right to require that the antenna or dish be painted, screened or relocated should the Board determine that it is unsightly or obtrusive to the overall aesthetics of the Condominium. This provision shall be limited as provided by applicable law.
 
 ### 9.9 Pets.
 
@@ -478,7 +506,11 @@ No animals, livestock, or poultry of any kind, other than household pets, shall 
 
 ### 9.10 Business and Commercial Use of  Property.
 
-No trade, craft, business, or manufacturing enterprise, or business or commercial activity of any kind shall be conducted or carried out in any Unit, or within the Property itself, unless the following conditions are met: (1) the Unit associated with the business or commercial use must serve as the primary residence for that Unit's Owner; (2) the existence or operation of the business is not apparent or detectable by sight, sound, or smell from outside the Unit; (3) the business activity does not involve regular visitation of the Unit by clients, customers, suppliers, or other business invitees or door-to-door solicitation of Unit Owners; and, (4) no goods, equipment, vehicles, and/or materials or supplies used in connection with any trade, service, or business shall be kept, parked, or stored outside of a Unit, for more than six (6) hours without being removed.
+No trade, craft, business, or manufacturing enterprise, or business or commercial activity of any kind shall be conducted or carried out in any Unit, or within the Property itself, unless the following conditions are met: 
+1. the Unit associated with the business or commercial use must serve as the primary residence for that Unit's Owner;
+2. the existence or operation of the business is not apparent or detectable by sight, sound, or smell from outside the Unit; 
+3. the business activity does not involve regular visitation of the Unit by clients, customers, suppliers, or other business invitees or door-to-door solicitation of Unit Owners; and, 
+4. no goods, equipment, vehicles, and/or materials or supplies used in connection with any trade, service, or business shall be kept, parked, or stored outside of a Unit, for more than six (6) hours without being removed.
 
 ### 9.11 Alterations of Units.
 
@@ -508,11 +540,11 @@ Each Unit Owner shall have a nonexclusive easement in and through every other Un
 
 The easements described above shall be appurtenant to and shall pass with the title to each Unit subject to the following:
 
-(a)  the right of the Association to assess and collect dues and Assessments as defined in this Declaration;
+- (a)  the right of the Association to assess and collect dues and Assessments as defined in this Declaration;
 
-(b) the right of the Association and any agents, employees, or its contractors to have reasonable entry upon reasonable notice into any Unit to make emergency repairs and to do other work reasonably necessary for the proper maintenance or operation of the Condominium; and
+- (b) the right of the Association and any agents, employees, or its contractors to have reasonable entry upon reasonable notice into any Unit to make emergency repairs and to do other work reasonably necessary for the proper maintenance or operation of the Condominium; and
 
-(c) the right of the Association to grant permits, licenses, and easements over the Common Elements for utilities, roads and other purposes reasonably necessary or useful for the proper maintenance or operation of the Condominium.
+- (c) the right of the Association to grant permits, licenses, and easements over the Common Elements for utilities, roads and other purposes reasonably necessary or useful for the proper maintenance or operation of the Condominium.
 
 ### 10.3 Encroachments.
 
@@ -536,23 +568,23 @@ The Declarant, so long as Declarant owns any Units, and the Board on behalf of t
 
 The Board of Directors shall from time to time, and at least annually, determine the amounts necessary to meet the Common expenses of the Association. The Common expenses shall include:
 
-(a) all Common expenses defined in the Act;
+- (a) all Common expenses defined in the Act;
 
-(b) the maintenance of all the Common Areas including landscaping and irrigation of the Common spaces;
+- (b) the maintenance of all the Common Areas including landscaping and irrigation of the Common spaces;
 
-(c) any utility charges which are billed directly to the Association and which are not separately metered for each unit shall be paid by the Association (the Unit Owner shall be responsible for all utilities which are directly billed and/or metered to each Unit);
+- (c) any utility charges which are billed directly to the Association and which are not separately metered for each unit shall be paid by the Association (the Unit Owner shall be responsible for all utilities which are directly billed and/or metered to each Unit);
 
-(d) all such other amounts as the Board of Directors may deem necessary or advisable for the lawful exercise of its powers and duties.
+- (d) all such other amounts as the Board of Directors may deem necessary or advisable for the lawful exercise of its powers and duties.
 
-(e) any shared expense not defined in the Act nor listed above which are approved by the Board of Directors as a Common expense.
+- (e) any shared expense not defined in the Act nor listed above which are approved by the Board of Directors as a Common expense.
 
 However, the following are modifications to the above collection of Common expenses:
 
-(a) any Common expense associated with the operation, maintenance, repair, or replacement of a Limited Common Element shall be paid by the Owner of, or assessed against, the Unit to which that Limited Common Element is assigned if the maintenance, repair or replacement of the Limited Common Element results from unusual or abnormal wear and tear caused by that Unit Owner;
+- (a) any Common expense associated with the operation, maintenance, repair, or replacement of a Limited Common Element shall be paid by the Owner of, or assessed against, the Unit to which that Limited Common Element is assigned if the maintenance, repair or replacement of the Limited Common Element results from unusual or abnormal wear and tear caused by that Unit Owner;
 
-(b) Assessments to pay a judgment against the Association may be made only against the Units in the Condominium at the time the judgment was entered in proportion to their allocated Common expense liabilities at the time the judgment was entered; and
+- (b) Assessments to pay a judgment against the Association may be made only against the Units in the Condominium at the time the judgment was entered in proportion to their allocated Common expense liabilities at the time the judgment was entered; and
 
-(c) to the extent that any Common expenses can be reasonably traced to the misconduct of any Unit Owner, the Association may assess that expense against the Owner's Unit.
+- (c) to the extent that any Common expenses can be reasonably traced to the misconduct of any Unit Owner, the Association may assess that expense against the Owner's Unit.
 
 ### 11.2 Adoption of Annual Budget.
 
@@ -594,11 +626,11 @@ The Association may from time to time establish reasonable late charges and a ra
 
 The Board may initiate an action to enforce payment of any delinquent Assessment. The Association shall be entitled to recover any costs and reasonable attorneys' fees (including those for appeals and bankruptcy proceedings), incurred in com1ection with the collection of delinquent Assessments, whether or not such collection activities result in suit being commenced or prosecuted to judgment, all of which shall be secured by the lien provided for in the Act and herein. In addition, the Board may enforce collection of delinquent Assessments in any one or more of the following methods:
 
-(a) After ten (10) days prior written notice to the Owner of intent to sever utilities for delinquent Assessments, the utilities to the Unit on which the Assessment remains delinquent may be severed and disconnected in whole or in part until the Assessments are paid, or otherwise provided for, to the satisfaction of the Board; or
+- (a) After ten (10) days prior written notice to the Owner of intent to sever utilities for delinquent Assessments, the utilities to the Unit on which the Assessment remains delinquent may be severed and disconnected in whole or in part until the Assessments are paid, or otherwise provided for, to the satisfaction of the Board; or
 
-(b) ten(10) days prior written notice to the Owner, the Association may suspend the Owner's right of use of any Common Elements for any period during which any Assessment against the Owner's Unit remains unpaid; or
+- (b) ten(10) days prior written notice to the Owner, the Association may suspend the Owner's right of use of any Common Elements for any period during which any Assessment against the Owner's Unit remains unpaid; or
 
-(c)  An action may be commenced to foreclose the lien for Assessments.
+- (c)  An action may be commenced to foreclose the lien for Assessments.
 
 Suit to recover a personal judgment for any delinquent Assessment shall be maintainable in any court of competent jurisdiction without foreclosing or waiving the lien securing such sums.
 
@@ -631,7 +663,9 @@ The Association has a lien on a Unit for any unpaid Assessments levied against a
 ### 12.2 Priority/Exceptions.
 
 A lien under this section shall be prior to all other liens and encumbrances on a Unit except:  
-(1) liens and encumbrances recorded before the recording of the Declaration, (2) a Mortgage on the Unit recorded before the date on which the Assessment sought to be enforced became delinquent, and, (3) liens for real property taxes and other governmental Assessments or charges against the Unit. A lien under this section is not subject to the provisions of Chapter 6.13 RCW.
+1. liens and encumbrances recorded before the recording of the Declaration, 
+2. a Mortgage on the Unit recorded before the date on which the Assessment sought to be enforced became delinquent, and, 
+3. liens for real property taxes and other governmental Assessments or charges against the Unit. A lien under this section is not subject to the provisions of Chapter 6.13 RCW.
 
 ### 12.3 Priority/Mortgages.
 
@@ -655,7 +689,10 @@ A lien for unpaid Assessments and the personal liability for payment of Assessme
 
 ### 12.8 Foreclosure Options.
 
-The lien arising m1der this section may be enforced judicially by the Association or its authorized representative in the manner set forth in Chapter 61.12 RCW. The lien arising under this section may also be enforced nonjudicially in the manner set forth in Chapter 61.24 RCW for non-judicial foreclosure of deeds of trust. The Declarant hereby grants to Chicago Title Insurance Company (the "Title Company"), as Trustee, all Units in the Condominium and all Property of which the Condominium is a part. This grant is for the sole purpose of securing the obligations of the Unit owners to the Association for the payment of Assessments. Said Title Company shall act as Trustee for the benefit of the Association, as beneficiary. On default by any Unit Owner in the payment of any Assessments, and on the written request of the beneficiary, Trustee shall sell the trust property in accordance with the Deed of Trust Act of the State of Washington, at a public auction to the highest bidder. Any person, including the Association or its authorized representative, shall have the power to purchase the Unit at the foreclosure sale and to acquire, hold, lease, mortgage, or convey the same, except that the Trustee may not bid at the Trustees sale. The proceeds of the sale shall be applied as follows: (1) to the expense of the sale, including reasonable attorney's fees and costs; (2) to the obligation owed by the defaulting Unit Owner; and, (3) the surplus, if any, shall be distributed to the beneficiary to be added to the general Assessments fund of the Association. On an express waiver in the complaint of any right to a deficiency judgment in a judicial foreclosure action, the period of redemption shall be eight (8) months. For purposes of foreclosure, it is hereby declared that the Units and the appurtenant Common Elements are not used principally for agricultural purposes; Nothing in this section shall prohibit the Association from taking a deed in lieu of foreclosure. This power of sale is not an exclusive remedy; the Association may pursue any other remedy available under the terms of this Declaration or at law.
+The lien arising m1der this section may be enforced judicially by the Association or its authorized representative in the manner set forth in Chapter 61.12 RCW. The lien arising under this section may also be enforced nonjudicially in the manner set forth in Chapter 61.24 RCW for non-judicial foreclosure of deeds of trust. The Declarant hereby grants to Chicago Title Insurance Company (the "Title Company"), as Trustee, all Units in the Condominium and all Property of which the Condominium is a part. This grant is for the sole purpose of securing the obligations of the Unit owners to the Association for the payment of Assessments. Said Title Company shall act as Trustee for the benefit of the Association, as beneficiary. On default by any Unit Owner in the payment of any Assessments, and on the written request of the beneficiary, Trustee shall sell the trust property in accordance with the Deed of Trust Act of the State of Washington, at a public auction to the highest bidder. Any person, including the Association or its authorized representative, shall have the power to purchase the Unit at the foreclosure sale and to acquire, hold, lease, mortgage, or convey the same, except that the Trustee may not bid at the Trustees sale. The proceeds of the sale shall be applied as follows: 
+1. to the expense of the sale, including reasonable attorney's fees and costs; 
+2. to the obligation owed by the defaulting Unit Owner; and, 
+3. the surplus, if any, shall be distributed to the beneficiary to be added to the general Assessments fund of the Association. On an express waiver in the complaint of any right to a deficiency judgment in a judicial foreclosure action, the period of redemption shall be eight (8) months. For purposes of foreclosure, it is hereby declared that the Units and the appurtenant Common Elements are not used principally for agricultural purposes; Nothing in this section shall prohibit the Association from taking a deed in lieu of foreclosure. This power of sale is not an exclusive remedy; the Association may pursue any other remedy available under the terms of this Declaration or at law.
 
 ### 12.9 Receivers.
 
@@ -671,29 +708,29 @@ The remedies provided are cumulative, and the Board may pursue them concurrently
 
 Commencing not later than the time of the first written conveyance of a Unit to a person other than the Declarant, the Board of Directors shall be required to obtain and maintain, paying the premiums as a Common expense:
 
-(a) a "master" or "blanket" type of property insurance policy on the Condominium, which may, but need not include equipment, improvements, and betterments in a Unit installed by the Declarant or the Unit Owners, insuring against all risks of direct physical loss commonly insured against. The insurance shall include earthquake insurance if a majority of the Board of Directors approves such coverage, and if such coverage is available at a reasonable cost. All property covered by the policy shall be insured in an amount equal to one hundred percent (100%) of current replacement cost at the time the policy is purchased and at each renewal date, exclusive of land, excavations, foundations, and other items normally excluded from property policies. The blanket policy shall contain a standard mortgagee clause in favor of each mortgagee of a Unit, which clause shall provide that the loss, if any, thereunder shall be payable to such mortgagee as its interest may appear, subject, however, to the loss payments provisions in favor of the Association.
+- (a) a "master" or "blanket" type of property insurance policy on the Condominium, which may, but need not include equipment, improvements, and betterments in a Unit installed by the Declarant or the Unit Owners, insuring against all risks of direct physical loss commonly insured against. The insurance shall include earthquake insurance if a majority of the Board of Directors approves such coverage, and if such coverage is available at a reasonable cost. All property covered by the policy shall be insured in an amount equal to one hundred percent (100%) of current replacement cost at the time the policy is purchased and at each renewal date, exclusive of land, excavations, foundations, and other items normally excluded from property policies. The blanket policy shall contain a standard mortgagee clause in favor of each mortgagee of a Unit, which clause shall provide that the loss, if any, thereunder shall be payable to such mortgagee as its interest may appear, subject, however, to the loss payments provisions in favor of the Association.
 
-(b) comprehensive general liability insurance, including medical payments insurance covering all the Common Elements. Such insurance shall be not less than One Million Dollars ($1,000,000) for each single accident or occurrence arising out of in connection with use, ownership, or maintenance of the Common Elements and shall cover bodily injury, deaths of persons, and property damage, including water damage. The liability insurance policy shall cover each member of the Board of Directors, and each Unit Owner, with cross-liability endorsement to cover liabilities of the Unit Owners as a group to a Unit Owner. The amount of coverage can be increased at the discretion of the Board.
+- (b) comprehensive general liability insurance, including medical payments insurance covering all the Common Elements. Such insurance shall be not less than One Million Dollars ($1,000,000) for each single accident or occurrence arising out of in connection with use, ownership, or maintenance of the Common Elements and shall cover bodily injury, deaths of persons, and property damage, including water damage. The liability insurance policy shall cover each member of the Board of Directors, and each Unit Owner, with cross-liability endorsement to cover liabilities of the Unit Owners as a group to a Unit Owner. The amount of coverage can be increased at the discretion of the Board.
 
-(c) blanket fidelity insurance in an amount determined by the Board, for all officers, directors, trustees, management agents,' employees of the Association, and all other persons handling or responsible for funds of or administered by the Association.
+- (c) blanket fidelity insurance in an amount determined by the Board, for all officers, directors, trustees, management agents,' employees of the Association, and all other persons handling or responsible for funds of or administered by the Association.
 
-(d) workman's compensation insurance, to the extent required by applicable law.
+- (d) workman's compensation insurance, to the extent required by applicable law.
 
-(e) insurance against loss of personal property of the Association by fire, theft and other losses with deductible provisions as the Board deems advisable.
+- (e) insurance against loss of personal property of the Association by fire, theft and other losses with deductible provisions as the Board deems advisable.
 
-(f) such other insurance (including directors and officers liability) as the Board deems advisable; provided, that notwithstanding any other provisions, the Association shall continuously maintain in effect such casualty, flood and liability insurance and a fidelity bond meeting the insurance and fidelity bond requirements for condominium projects established by Federal National Mortgage Association, Government National Mortgage Association, Federal Home Loan Mortgage Corporation, U.S. Department of Veterans Affairs, or other governmental or quasi-governmental agencies involved in the secondary mortgage market, so long as any such agency is a Mortgagee or Owner of a Unit with the Condominium, except to the extent such coverage is not available or has been waived in writing by such agency.
+- (f) such other insurance (including directors and officers liability) as the Board deems advisable; provided, that notwithstanding any other provisions, the Association shall continuously maintain in effect such casualty, flood and liability insurance and a fidelity bond meeting the insurance and fidelity bond requirements for condominium projects established by Federal National Mortgage Association, Government National Mortgage Association, Federal Home Loan Mortgage Corporation, U.S. Department of Veterans Affairs, or other governmental or quasi-governmental agencies involved in the secondary mortgage market, so long as any such agency is a Mortgagee or Owner of a Unit with the Condominium, except to the extent such coverage is not available or has been waived in writing by such agency.
 
 ### 13.2 Required Provisions.
 
 The insurance policies carried pursuant to this Article shall provide that:
 
-(a) each Unit Owner is an insured person under the policy with respect to liability arising out of the Owner's interest in the Common Elements or membership in the Association;
+- (a) each Unit Owner is an insured person under the policy with respect to liability arising out of the Owner's interest in the Common Elements or membership in the Association;
 
-(b) the insurer waives its right to subrogation under the policy against any Unit Owner, member of the Owner's household, or tenant of the Owner;
+- (b) the insurer waives its right to subrogation under the policy against any Unit Owner, member of the Owner's household, or tenant of the Owner;
 
-(c) no act or omission by any Unit Owner, unless acting within the scope of the Owner's authority on behalf of the Association, will void the policy or be a condition to recovery under the policy;and
+- (c) no act or omission by any Unit Owner, unless acting within the scope of the Owner's authority on behalf of the Association, will void the policy or be a condition to recovery under the policy;and
 
-(d) it at the time of a loss under the policy, there is other insurance in the name of a Unit Owner covering the same risk covered by the policy, the Association's policy provides primary insurance.
+- (d) it at the time of a loss under the policy, there is other insurance in the name of a Unit Owner covering the same risk covered by the policy, the Association's policy provides primary insurance.
 
 ### 13.3 Adjustment of Loss.
 
@@ -725,15 +762,15 @@ In the event of damage or destruction to all or part of the Property, the Associ
 
 In the event of damage or destruction to all or any part of the Condominium, the Board shall promptly, and in all events within thirty (30) days after the date of damage or destruction, or, if the damage or destruction did not occur at a particular identifiable time, after the date of its discovery, make the following determinations with respect to employing such advice as the Board deems advisable:
 
-(a) the nature and extent of the damage or destruction, together with an inventory of the improvements and property affected;
+- (a) the nature and extent of the damage or destruction, together with an inventory of the improvements and property affected;
 
-(b) a reasonably reliable estimate of the cost to repair the damage, which estimate shall, if reasonably practicable, be based upon a firm bid obtained from a responsible contractor;
+- (b) a reasonably reliable estimate of the cost to repair the damage, which estimate shall, if reasonably practicable, be based upon a firm bid obtained from a responsible contractor;
 
-(c) the anticipated insurance proceeds, if any, to be available from insurance covering the loss based on the amount paid or initially offered by the insurer;
+- (c) the anticipated insurance proceeds, if any, to be available from insurance covering the loss based on the amount paid or initially offered by the insurer;
 
-(d) the amount, if any, that the estimated cost of repair exceeds the anticipated insurance proceeds and the amount of Assessment to each Unit if such excess was paid as a Common expense and specially assessed against all Units in proportion to their allocated interest in the Common Elements; and
+- (d) the amount, if any, that the estimated cost of repair exceeds the anticipated insurance proceeds and the amount of Assessment to each Unit if such excess was paid as a Common expense and specially assessed against all Units in proportion to their allocated interest in the Common Elements; and
 
-(e) the Board's recommendation as to whether the damage or destruction should be repaired.
+- (e) the Board's recommendation as to whether the damage or destruction should be repaired.
 
 ### 14.3 Notice of Damage or Destruction.
 
@@ -743,11 +780,11 @@ The Board shall promptly, and in all events within thirty (30) days after the da
 
 Any portion of the Condominium which has been damaged or destroyed for which insurance proceeds are available shall be repaired or rebuilt promptly by the Association unless:
 
-(a) the Condominium is terminated;
+- (a) the Condominium is terminated;
 
-(b) repair or replacement would be illegal under any state or local health or safety statute or ordinance; or
+- (b) repair or replacement would be illegal under any state or local health or safety statute or ordinance; or
 
-(c) eighty percent (80%) of the Unit Owners, including every Owner of a Unit or assigned Limited Common Element that will not be rebuilt, vote not to rebuild.
+- (c) eighty percent (80%) of the Unit Owners, including every Owner of a Unit or assigned Limited Common Element that will not be rebuilt, vote not to rebuild.
 
 The cost of repair or replacement in excess of insurance proceeds and reserves is a Common expense.
 
@@ -759,11 +796,11 @@ If the damage or destruction is to be repaired or rebuilt, the Board shall have 
 
 If all of the damaged or destroyed portions of the Condominium are not repaired or replaced:
 
-(a) the insurance proceeds attributable to the damaged Common Elements shall be used to restore the damaged area to a condition compatible with the remainder of the Condominium;
+- (a) the insurance proceeds attributable to the damaged Common Elements shall be used to restore the damaged area to a condition compatible with the remainder of the Condominium;
 
-(b) the insurance proceeds attributable to Units and Limited Common Elements which are not rebuilt shall be distributed to the Owners of those Units and the Owners of the Units to which those Limited Common Elements were allocated, or to lienholders, as their interests may appear; and
+- (b) the insurance proceeds attributable to Units and Limited Common Elements which are not rebuilt shall be distributed to the Owners of those Units and the Owners of the Units to which those Limited Common Elements were allocated, or to lienholders, as their interests may appear; and
 
-(c) the remainder of the proceeds shall be distributed to all the Unit Owners or lienholders, as their interests may appear, in proportion to the Common Element interests of all the Units.
+- (c) the remainder of the proceeds shall be distributed to all the Unit Owners or lienholders, as their interests may appear, in proportion to the Common Element interests of all the Units.
 
 ### 14.7 Emergency Work.
 
@@ -783,23 +820,23 @@ If the Property is partially or completely condemned, the Association shall act 
 
 In the event of partial condemnation which does not result in any Unit becoming unusable for any purpose permitted by this Declaration, the proceeds shall be used:
 
-(a) to restore the remaining Common Element;
+- (a) to restore the remaining Common Element;
 
-(b) for payment to Unit Owners and their Mortgagees specially damaged by the condemnation, which damage was an element of the condemnation award; and
+- (b) for payment to Unit Owners and their Mortgagees specially damaged by the condemnation, which damage was an element of the condemnation award; and
 
-(c) the balance shall be distributed pro rata among the Unit Owners and their Mortgagees in proportion to their percentage interest in the Common Element.
+- (c) the balance shall be distributed pro rata among the Unit Owners and their Mortgagees in proportion to their percentage interest in the Common Element.
 
 ### 15.3 Partial Condemnation; Unit Unusable.
 
 In the event of partial condemnation which does result in some, but not all, of the Units becoming unusable, the Association Management Documents, including the Survey Map and Plans, shall be amended to reflect any required elimination of Units and reallocation of percentage interest, and the condemnation proceeds shall be used:
 
-(a) for payment to Unit Owners and their Mortgagees eliminated in the revised documents, to the extent the value of the entire Unit was an element of the condemnation award;
+- (a) for payment to Unit Owners and their Mortgagees eliminated in the revised documents, to the extent the value of the entire Unit was an element of the condemnation award;
 
-(b) toward restoration of the remaining Common Element;
+- (b) toward restoration of the remaining Common Element;
 
-(c) for payment to Unit Owners and their Mortgagees specially damaged by the condemnation, but which remain in the Condominium, which damages were an element of the condemnation award; and
+- (c) for payment to Unit Owners and their Mortgagees specially damaged by the condemnation, but which remain in the Condominium, which damages were an element of the condemnation award; and
 
-(d) the balance shall be distributed pro rata to the remaining Unit Owners and their Mortgagees in proportion to their percentage interest in the Common Element.
+- (d) the balance shall be distributed pro rata to the remaining Unit Owners and their Mortgagees in proportion to their percentage interest in the Common Element.
 
 ### 15.4 Total Condemnation.
 
@@ -819,39 +856,41 @@ So long as a Board member Association committee member, Or Association official 
 
 ### 17.1 Amendments to Declaration or Bylaws and Extraordinary Actions.
 
-The prior written approval of Owners who represent at least sixty-seven percent (67%)) of the total allocated votes in the Association and holders of at least fifty-one percent (5 1%) of the first Mortgages (based on one (1) vote for each first Mortgage owned) of the individual Units shall be required for (i) any "Extraordinary Actions" as described below, and (ii) any amendments of a material nature to this Declaration or the Bylaws of the Association.
+The prior written approval of Owners who represent at least sixty-seven percent (67%)) of the total allocated votes in the Association and holders of at least fifty-one percent (51%) of the first Mortgages (based on one (1) vote for each first Mortgage owned) of the individual Units shall be required for 
+- (i) any "Extraordinary Actions" as described below, and 
+- (ii) any amendments of a material nature to this Declaration or the Bylaws of the Association.
 
 ### 17.2 Material Changes.
 
 Any amendment to the Declaration or Bylaws which changes any of the following or involves any of the following actions, shall constitute a material change:
 
-(a) voting rights;
+- (a) voting rights;
 
-(b) Assessment lien rights or the priority of such liens;
+- (b) Assessment lien rights or the priority of such liens;
 
-(c) reduction in the reserves required for maintenance, repair, or replacement of the Common Elements;
+- (c) reduction in the reserves required for maintenance, repair, or replacement of the Common Elements;
 
-(d) responsibility for maintenance and repairs;
+- (d) responsibility for maintenance and repairs;
 
-(e) allocation of interests in the Common or Limited Common Elements, or rights to their use, except as otherwise provided in this Declaration;
+- (e) allocation of interests in the Common or Limited Common Elements, or rights to their use, except as otherwise provided in this Declaration;
 
-(f) the boundaries of any Unit;
+- (f) the boundaries of any Unit;
 
-(g) converts a Unit into Common Element, or of Common Element into Unit;
+- (g) converts a Unit into Common Element, or of Common Element into Unit;
 
-(h) expands or contracts the Condominium or results in the addition, annexation, or withdrawal of property to or from the Condominium, except as provided in this Declaration;
+- (h) expands or contracts the Condominium or results in the addition, annexation, or withdrawal of property to or from the Condominium, except as provided in this Declaration;
 
-(i) hazard or fidelity insurance requirements;
+- (i) hazard or fidelity insurance requirements;
 
-(j) imposes new restrictions on leasing of Units;
+- (j) imposes new restrictions on leasing of Units;
 
-(k) imposes of any restriction on the right of a Unit Owner to sell or trade his or her Unit;
+- (k) imposes of any restriction on the right of a Unit Owner to sell or trade his or her Unit;
 
-(l) any provisions that expressly benefit mortgagees, insurers, or guarantors (i.e. mortgagee priority);
+- (l) any provisions that expressly benefit mortgagees, insurers, or guarantors (i.e. mortgagee priority);
 
-(m) increase Special Declarant's Rights; or
+- (m) increase Special Declarant's Rights; or
 
-(n) increase or decrease use to which any Unit is restricted.
+- (n) increase or decrease use to which any Unit is restricted.
 
 Furthermore, no amendment of this Declaration shall be effective to modify, change, limit, or alter the rights expressly conferred upon Mortgagees in this instrument with respect to any unsatisfied Mortgage duly recorded unless the amendment shall be consented to in writing by the holder of such Mortgage. Any provision of this Declaration conferring rights upon Mortgagees which is inconsistent with any other provision of this Declaration or the Bylaws shall control over such other inconsistent provisions.
 
@@ -859,23 +898,23 @@ Furthermore, no amendment of this Declaration shall be effective to modify, chan
 
 Any of the following, which shall constitute "Extraordinary Actions":
 
-(a) increases in Assessments that raise the previously assessed amount by more than twenty-five percent (25%);
+- (a) increases in Assessments that raise the previously assessed amount by more than twenty-five percent (25%);
 
-(b) a decision by the Association to establish self-management when professional management had been required previously by an Eligible Mortgagee;
+- (b) a decision by the Association to establish self-management when professional management had been required previously by an Eligible Mortgagee;
 
-(c) restoration or repair of the Condominium (after a hazard damage or partial condemnation) in a manner other than specified in this Declaration or the Bylaws;
+- (c) restoration or repair of the Condominium (after a hazard damage or partial condemnation) in a manner other than specified in this Declaration or the Bylaws;
 
-(d) any action to terminate the legal status of the Condominium after substantial destruction or condemnation occurs;
+- (d) any action to terminate the legal status of the Condominium after substantial destruction or condemnation occurs;
 
-(e) merging or consolidating the Association with another association, except as provided
+- (e) merging or consolidating the Association with another association, except as provided
 
-(f) abandoning, encumbering, mortgaging, conveying, selling, or otherwise transferring Common Elements;
+- (f) abandoning, encumbering, mortgaging, conveying, selling, or otherwise transferring Common Elements;
 
-(g) partitioning or relocating the boundaries of a Common Element, except as provided in this Declaration;
+- (g) partitioning or relocating the boundaries of a Common Element, except as provided in this Declaration;
 
-(h) using insurance proceeds for purposes other than constructing or repair of the insured improvements, except as otherwise provided in this Declaration; or
+- (h) using insurance proceeds for purposes other than constructing or repair of the insured improvements, except as otherwise provided in this Declaration; or
 
-(i) marking capital expenditures during any period of twelve (12) consecutive months costing more than twenty percent (20%) of the annual operating budget.
+- (i) marking capital expenditures during any period of twelve (12) consecutive months costing more than twenty percent (20%) of the annual operating budget.
 
 Until the authority of the Declarant to designate the members of the Board of Directors terminates (that is, until the Transition Date), all amendments to the Declaration and any Extraordinary Actions, as defined above, proposed must have the approval of the Veterans Administration (the "VA"), if the VA has guaranteed any loans secured by Units in this Condominium.
 
@@ -883,31 +922,35 @@ Until the authority of the Declarant to designate the members of the Board of Di
 
 On written request to the Association, an Eligible Mortgagee of a first mortgage on a Unit shall be entitled to timely written notice of:
 
-(a) any significant damage or destruction to the Common Elements, or to the Unit to which the mortgage appertains (for purposes of this subsection, the term "significant damage or destruction" shall mean damage having a cost to repair of One Thousand Dollars ($1,000) or more to the mortgaged Unit or Ten Thousand Dollars ($10,000) or more to the Common Element or Building);
+- (a) any significant damage or destruction to the Common Elements, or to the Unit to which the mortgage appertains (for purposes of this subsection, the term "significant damage or destruction" shall mean damage having a cost to repair of One Thousand Dollars ($1,000) or more to the mortgaged Unit or Ten Thousand Dollars ($10,000) or more to the Common Element or Building);
 
-(b) any condemnation or eminent domain proceeding affecting the Condominium or any portion thereof;
+- (b) any condemnation or eminent domain proceeding affecting the Condominium or any portion thereof;
 
-(c) any default under this Declaration or the Articles of Incorporation or Bylaws which gives rise to a cause of action against the Owner of a Unit subject to the Mortgage of such holder or insurer, where the default has not been cured in thirty (30) days;
+- (c) any default under this Declaration or the Articles of Incorporation or Bylaws which gives rise to a cause of action against the Owner of a Unit subject to the Mortgage of such holder or insurer, where the default has not been cured in thirty (30) days;
 
-(d) any proposed termination of the Condominium regime;
+- (d) any proposed termination of the Condominium regime;
 
-(e) any lapse, cancellation or material modification of any insurance policy or fidelity bond maintained by the Association;
+- (e) any lapse, cancellation or material modification of any insurance policy or fidelity bond maintained by the Association;
 
-(f) any proposed amendment of the Condominium instruments affecting a change in (1) the boundaries of any Unit; (2) the undivided interest in the Common Elements appertaining to any Unit or the liability for Common expenses appertaining thereto, (3) the number of votes in the Association appertaining to any Unit; or (4) the purposes to which any Unit or the Common Elements are restricted;
+- (f) any proposed amendment of the Condominium instruments affecting a change in 
+  1. the boundaries of any Unit; 
+  2. the undivided interest in the Common Elements appertaining to any Unit or the liability for Common expenses appertaining thereto, 
+  3. the number of votes in the Association appertaining to any Unit; or 
+  4. the purposes to which any Unit or the Common Elements are restricted;
 
-(g) any sixty (60) days delinquency in the payment of Assessments or charges owned by the Owner of any Unit in which the Mortgagee holds the Mortgage, and
+- (g) any sixty (60) days delinquency in the payment of Assessments or charges owned by the Owner of any Unit in which the Mortgagee holds the Mortgage, and
 
-(h) any proposed action that requires a consent of a specified percentage of eligible mortgage holders.
+- (h) any proposed action that requires a consent of a specified percentage of eligible mortgage holders.
 
 ### 17.5 Holder or Insurer of First Mortgage.
 
 An Eligible Mortgagee of a first mortgage on a Unit shall be entitled, upon reasonable notice, to:
 
-(a) inspect the books and records of the Association during normal business hours;
+- (a) inspect the books and records of the Association during normal business hours;
 
-(b) require the preparation of and, if preparation is required, receive an annual audited financial statement of the Association for the immediately preceding fiscal year, except that such statement need not be furnished earlier than ninety (90) days following the end of such fiscal year; and
+- (b) require the preparation of and, if preparation is required, receive an annual audited financial statement of the Association for the immediately preceding fiscal year, except that such statement need not be furnished earlier than ninety (90) days following the end of such fiscal year; and
 
-(c) receive written notice of all meetings of the Association and be permitted to designate a representative to attend all such meetings.
+- (c) receive written notice of all meetings of the Association and be permitted to designate a representative to attend all such meetings.
 
 ## 18. MAINTENANCE AND REPAIR
 
@@ -915,11 +958,11 @@ An Eligible Mortgagee of a first mortgage on a Unit shall be entitled, upon reas
 
 Each Owner, at that Owner's own expense, shall perform promptly all cleaning, maintenance, repair, and replacement work:
 
-(a) within that Owner's Unit which, if omitted, would affect the Common Element;
+- (a) within that Owner's Unit which, if omitted, would affect the Common Element;
 
-(b) on the interior of all windows and screens bounding that Owner's Unit and the Unit Owner shall also be responsible for replacing any glass windows that are broken;
+- (b) on the interior of all windows and screens bounding that Owner's Unit and the Unit Owner shall also be responsible for replacing any glass windows that are broken;
 
-(c) within the Limited Common Element appurtenant to that Owner's Unit, including the balcony/deck, if any; however, decks will be painted and repairs, as to ordinary wear and tear, by the Association.
+- (c) within the Limited Common Element appurtenant to that Owner's Unit, including the balcony/deck, if any; however, decks will be painted and repairs, as to ordinary wear and tear, by the Association.
 
 Without limiting the generality of the foregoing, each Owner shall be responsible for the construction, alteration, maintenance, repair or replacement of any plumbing fixtures, water heaters, fans, heating or other equipment, electrical fixtures or appliances which are used solely in connection with his or her Unit. In the event an Owner fails or refuses to perform the cleaning, maintenance, repair, and replacement work required by that Owner under the provisions of this section, then the Association may perform such work and the cost thereof shall be the personal obligation of the Owner of the Unit and shall constitute a lien on the Unit and its interest in the Common Elements and may be foreclosed in the same maimer as the lien for Assessments for Common expenses.
 
@@ -953,7 +996,11 @@ During normal business hours or under other reasonable circumstances, the Associ
 
 ### 21.1 Approval
 
-Except as provided in certain sections of this Declaration and the Act, the Declaration, including the Survey Map and Plans, may be amended only by agreement of sixty-seven percent (67%) of the Unit Owners. No action to challenge the validity of an amendment adopted by the Association under this Section may be brought more than one (1) year after the amendment is recorded. Any amendment to this Declaration shall require (a) at least 25 days advance notice to all Owners; (b) the notice must state the purpose of the meeting and a summary of amendments proposed; (c) the notice must contain a copy of the proxy that may be cast in lieu of attendance, if permitted in the Bylaws; and (d) a quorum of at least twenty percent (20%) of the total number of votes must be met.
+Except as provided in certain sections of this Declaration and the Act, the Declaration, including the Survey Map and Plans, may be amended only by agreement of sixty-seven percent (67%) of the Unit Owners. No action to challenge the validity of an amendment adopted by the Association under this Section may be brought more than one (1) year after the amendment is recorded. Any amendment to this Declaration shall require 
+- (a) at least 25 days advance notice to all Owners; 
+- (b) the notice must state the purpose of the meeting and a summary of amendments proposed;
+- (c) the notice must contain a copy of the proxy that may be cast in lieu of attendance, if permitted in the Bylaws; and 
+- (d) a quorum of at least twenty percent (20%) of the total number of votes must be met.
 
 ### 21.2 Recording.
 
@@ -969,17 +1016,17 @@ No amendment may restrict, eliminate, or otherwise modify any Special Declarant 
 
 The Declarant, for itself and any successor Declarant, has reserved the following Development rights:
 
-(a) Add real property or improvements to the Condominium, as shown on the Survey Map and Plans, in accordance with RCW 64.34.236(2) and all applicable zoning, Building, and subdivision laws and ordinances;
+- (a) Add real property or improvements to the Condominium, as shown on the Survey Map and Plans, in accordance with RCW 64.34.236(2) and all applicable zoning, Building, and subdivision laws and ordinances;
 
-(b) Without limiting the foregoing, Declarant is authorized to complete construction of the Units or to assign the right to complete those Units to a purchaser of a Unit and then to amend Exhibit "B" to reflect the number of bathrooms, bedrooms, built-in fireplaces, and other pertinent information reflecting the completed Unit;
+- (b) Without limiting the foregoing, Declarant is authorized to complete construction of the Units or to assign the right to complete those Units to a purchaser of a Unit and then to amend Exhibit "B" to reflect the number of bathrooms, bedrooms, built-in fireplaces, and other pertinent information reflecting the completed Unit;
 
-(c) Subdivide Units or Convert Units into Common Elements, in accordance with RCW 64.34.236(3) and allocate as if by condemnation under RCW 64.34.060;
+- (c) Subdivide Units or Convert Units into Common Elements, in accordance with RCW 64.34.236(3) and allocate as if by condemnation under RCW 64.34.060;
 
-(d) Withdraw Real Property from the Condominium, in accordance with RCW 64.34.236(4) and all applicable zoning, Building, and subdivision laws and ordinances, subject to such right expiring if Unit is sold on that portion prior to Declarant exercising this right; and
+- (d) Withdraw Real Property from the Condominium, in accordance with RCW 64.34.236(4) and all applicable zoning, Building, and subdivision laws and ordinances, subject to such right expiring if Unit is sold on that portion prior to Declarant exercising this right; and
 
-(e) Reallocate Limited Common Elements with respect to Units that have not been conveyed by Declarant.
+- (e) Reallocate Limited Common Elements with respect to Units that have not been conveyed by Declarant.
 
-(f) The right, and obligation, to construct a driveway and Additional Uncovered Parking Spaces, as shown on the Survey Map and Plans, and to remove the existing landscaping in the location of the proposed driveway. Declarant will also install landscaping and lighting as appropriate. The driveway, Additional Uncovered Parking Spaces, lighting, landscaping and related improvements will be of a style and quality comparable to the currently existing at the Condominium. Once constructed, the driveway, lighting, landscaping and related improvements will become Common Elements, and the Additional Uncovered Parking Spaces will become Limited Common Elements, and Declarant reserves the right to sell and assign the Additional Uncovered Parking Spaces to owners or prospective owners of Units on such terms and conditions as Declarant may determine in its sole discretion.
+- (f) The right, and obligation, to construct a driveway and Additional Uncovered Parking Spaces, as shown on the Survey Map and Plans, and to remove the existing landscaping in the location of the proposed driveway. Declarant will also install landscaping and lighting as appropriate. The driveway, Additional Uncovered Parking Spaces, lighting, landscaping and related improvements will be of a style and quality comparable to the currently existing at the Condominium. Once constructed, the driveway, lighting, landscaping and related improvements will become Common Elements, and the Additional Uncovered Parking Spaces will become Limited Common Elements, and Declarant reserves the right to sell and assign the Additional Uncovered Parking Spaces to owners or prospective owners of Units on such terms and conditions as Declarant may determine in its sole discretion.
 
 ### 22.2 Exercise of Development Rights.
 
@@ -1011,17 +1058,17 @@ If Declarant shall transfer Declarant's rights prior to termination of Declarant
 
 Declarant, for itself and any successor Declarant, has reserved the following Special Declarant rights:
 
-(a) Complete improvements and otherwise perform work authorized by the Declaration, the Public Offering Statement, the Purchase and Sale Agreement, and in accordance with the standard Limited Warranty and Survey Map and Plans, even though Declarant may be completing construction in the Building after the Unit Owner takes possession of the Unit.
+- (a) Complete improvements and otherwise perform work authorized by the Declaration, the Public Offering Statement, the Purchase and Sale Agreement, and in accordance with the standard Limited Warranty and Survey Map and Plans, even though Declarant may be completing construction in the Building after the Unit Owner takes possession of the Unit.
 
-(b) Exercise any Development right.
+- (b) Exercise any Development right.
 
-(c) Maintain sales offices, management offices, signs advertising the Condominium, model units, or any other facility in the sole opinion of the Declarant that may be reasonably required, convenient or incidental to the construction, sale or rental of Units and appurtenant interests. Any such facilities not designated as a Unit by this Declaration is a Common Element and, if Declarant ceases to be a Unit Owner, the Declarant ceases to have any rights with regard thereto unless it is removed promptly from the Condominium, which Declarant shall have the right to do. The number, size, location and relocation of such facilities shall be determined from time to time by Declarant in the exercise of its sole discretion; provided that the maintenance and use of such facilities shall not unreasonably interfere with a Unit Owner's use and enjoyment of the Unit and appurtenant Limited Common Elements, and those portions of the Limited Common Elements reasonably necessary to the use and enjoyment of such Unit and Limited Common Elements.
+- (c) Maintain sales offices, management offices, signs advertising the Condominium, model units, or any other facility in the sole opinion of the Declarant that may be reasonably required, convenient or incidental to the construction, sale or rental of Units and appurtenant interests. Any such facilities not designated as a Unit by this Declaration is a Common Element and, if Declarant ceases to be a Unit Owner, the Declarant ceases to have any rights with regard thereto unless it is removed promptly from the Condominium, which Declarant shall have the right to do. The number, size, location and relocation of such facilities shall be determined from time to time by Declarant in the exercise of its sole discretion; provided that the maintenance and use of such facilities shall not unreasonably interfere with a Unit Owner's use and enjoyment of the Unit and appurtenant Limited Common Elements, and those portions of the Limited Common Elements reasonably necessary to the use and enjoyment of such Unit and Limited Common Elements.
 
-(d) Use easements through Common Elements for the purpose of discharging its obligations, making improvements within the Condominium or within real property that may be added to the Condominium, or to exercise any Development Right or Special Declarant Right.
+- (d) Use easements through Common Elements for the purpose of discharging its obligations, making improvements within the Condominium or within real property that may be added to the Condominium, or to exercise any Development Right or Special Declarant Right.
 
-(e) Appoint or remove any officer of the Association or any member of the Board of Directors during the period of Declarant control, as set forth in Section 8 above.
+- (e) Appoint or remove any officer of the Association or any member of the Board of Directors during the period of Declarant control, as set forth in Section 8 above.
 
-(f) Veto or approve a proposed action of the Board of Directors of the Association during to period of Declarant control, as set forth in Section 8 above.
+- (f) Veto or approve a proposed action of the Board of Directors of the Association during to period of Declarant control, as set forth in Section 8 above.
 
 ### 23.2 Termination of Special Declarant Rights.
 

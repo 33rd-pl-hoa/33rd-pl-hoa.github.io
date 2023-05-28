@@ -68,21 +68,21 @@ The affairs of the Association shall be managed by a Board of Directors. The num
 
 The Board of Directors shall have the powers and duties necessary for the administration of the affairs of the Association. That the powers and duties of the Board of Directors as set forth in the Condominium Declaration referred to above, shall include, but not be limited to, the following:
 
-a. Operation, care, upkeep and maintenance of the common areas.
+- a. Operation, care, upkeep and maintenance of the common areas.
 
-b. Determination of the common expenses required for the affairs of the Association, including, without limitation, the operation and maintenance of the property.
+- b. Determination of the common expenses required for the affairs of the Association, including, without limitation, the operation and maintenance of the property.
 
-c. Collection of assessments from the unit owners.
+- c. Collection of assessments from the unit owners.
 
-d. Employment and dismissal of the personnel necessary or advisable for the maintenance and operation of the common areas. The Directors shall have the authority to enter into a contract for professional management of the condominium.
+- d. Employment and dismissal of the personnel necessary or advisable for the maintenance and operation of the common areas. The Directors shall have the authority to enter into a contract for professional management of the condominium.
 
-e. Adoption and amendment of rules and regulations covering the details of the operation and use of the property.
+- e. Adoption and amendment of rules and regulations covering the details of the operation and use of the property.
 
-f. Opening of bank accounts on behalf of the Association and designating the signatories required therefor.
+- f. Opening of bank accounts on behalf of the Association and designating the signatories required therefor.
 
-g. Obtaining of insurance for the property.
+- g. Obtaining of insurance for the property.
 
-h. Making of repairs, additions and improvements to, or alterations of, the property.
+- h. Making of repairs, additions and improvements to, or alterations of, the property.
 
 ### SECTION 3: Removal
 
