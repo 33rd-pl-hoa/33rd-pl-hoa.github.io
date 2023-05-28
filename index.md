@@ -1,6 +1,6 @@
 # Welcome
 
-https://github.com/33rd-pl-hoa/33rd-pl-hoa.github.io
+Github: [project site](https://github.com/33rd-pl-hoa/33rd-pl-hoa.github.io)
 
 ## Governing Docs
 Important references:
