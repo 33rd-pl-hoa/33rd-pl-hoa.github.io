@@ -1,17 +1,6 @@
-<div style="position: relative;">
-<div style="position: absolute; right: 32px; width: 40%;">
-<img src="./images/image_01.png" alt="">
-</div>
-</div>
-
-After Recording Mail to:  
-Bryce H. Dille  
-CAMPBELL, DILLE, BARNETT, SMITH & WILEY, P.L.L.C.  
-317 S. Meridian  
-P.O. Box 488  
-Puyallup, WA 98371  
-
 # CONDOMINIUM DECLARATION OF THIRTY THIRD PLACE CONDOMINIUMS
+
+{:toc}
 
 Grantor: Thirty Third Place, Inc., a Washington corporation  
 Grantee: The Public  

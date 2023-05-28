@@ -1,4 +1,7 @@
 # 33RD PL HOA
+
+{:toc}
+
 ## Governing Docs
 Important references:
 
