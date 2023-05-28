@@ -5,7 +5,7 @@ Github: [project site](https://github.com/33rd-pl-hoa/33rd-pl-hoa.github.io)
 ## Governing Docs
 Important references:
 
-- Maximum of 10 rental units. [1st Amendedment](governing_docs/declaration_amendments/first-amendment.md)
+- Maximum of 10 rental units. [1st Amendment](governing_docs/declaration_amendments/first-amendment.md)
 - Parking stalls: [4th Amendment](governing_docs/declaration_amendments/fourth-amendment.md)
 - Unit Restrictions: [Declaration: Section 9](governing_docs/declaration_amendments/declaration.md#9-restrictions-on-use-of-property)
 
