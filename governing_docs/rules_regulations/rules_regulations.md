@@ -1,5 +1,29 @@
 # 33rd PLACE CONDOMINIUM RULES AND REGULATIONS
 
+- [DEFINITION OF TERMS](#definition-of-terms)
+- [I. UNIT](#i-unit)
+  - [A. USE OF UNITS](#a-use-of-units)
+  - [B. MAINTENANCE OF UNITS](#b-maintenance-of-units)
+- [C. RENTALS](#c-rentals)
+  - [D. SIGNS](#d-signs)
+  - [E. SALES](#e-sales)
+- [II COMMON ELEMENTS](#ii-common-elements)
+  - [A. DEFINITION OF COMMON ELEMENTS](#a-definition-of-common-elements)
+  - [B. USE](#b-use)
+- [III. LIMITED ELEMENTS](#iii-limited-elements)
+  - [A. DEFINITION OF LIMITED COMMON ELEMENTS](#a-definition-of-limited-common-elements)
+  - [B. USE](#b-use)
+- [IV. EXTERIOR APPEARANCE](#iv-exterior-appearance)
+  - [V. NOISE/DISTURBANCES](#v-noisedisturbances)
+- [VI. TRASH DISPOSAL/RECYCLING](#vi-trash-disposalrecycling)
+- [VII. PARKING](#vii-parking)
+- [VIII. PETS](#viii-pets)
+- [IX. MAINTENANCE FEES](#ix-maintenance-fees)
+- [X. ENFORCEMENT](#x-enforcement)
+- [XI. COMPLAINTS/REPORTS](#xi-complaintsreports)
+- [XII. AMENDMENT/SEVERABILITY](#xii-amendmentseverability)
+- [XIII. FEE/FINE SCHEDULE](#xiii-feefine-schedule)
+
 ## DEFINITION OF TERMS
 
 Terms are as defined in the Association’s Declaration and/or By-laws. Where a conflict exists the Declaration and/or By-laws shall take precedence.
