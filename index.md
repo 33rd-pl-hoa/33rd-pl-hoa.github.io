@@ -9,7 +9,7 @@ Important references:
 - Parking stalls: [4th Amendment](governing_docs/declaration_amendments/fourth-amendment.md)
 - Unit Restrictions: [Declaration: Section 9](governing_docs/declaration_amendments/declaration.md#9-restrictions-on-use-of-property)
 
-The original docucments have been converted from PDF for better searching and navigation. Please refer to the 
+The original docucments have been digitalized for better searching and navigation. Please refer to the 
 original PDF as the authorative source.
 
 | Document | Description | Original PDF |
